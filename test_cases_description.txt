@@ -1,0 +1,19 @@
+Test Case Descriptions – Homework 2
+
+Website: https://www.wikipedia.org/
+
+Test 1:
+Name: Logo Visibility Test
+Steps:
+1. Open Wikipedia main page
+2. Check if the main logo is displayed
+Expected Result: The logo is visible
+
+Test 2:
+Name: Search Function Test
+Steps:
+1. Open Wikipedia main page
+2. Enter "Python" in the search field
+3. Press Enter
+4. Wait for the search results page to load
+Expected Result: Page title contains "Python"
